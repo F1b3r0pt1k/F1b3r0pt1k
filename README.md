@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there <img src="https://githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif width="30px">, my name is Eric Gray.
 
 <!--
 **F1b3r0pt1k/F1b3r0pt1k** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
