@@ -7,6 +7,13 @@
 - 💬 Ask me about: Microsoft Azure, Terraform, Bicep, IaC
 - 📫 How to reach me: eric@ericgray.tech
 
+## Toolset
+![image]({https://img.shields.io/badge/microsoft%20azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white}) ![image]({BadgeURLHere}) ![image]({BadgeURLHere}) ![image]({BadgeURLHere}) ![image]({BadgeURLHere}) ![image]({BadgeURLHere}) ![image]({BadgeURLHere})
+
+
+
+
+
 <!--
 **F1b3r0pt1k/F1b3r0pt1k** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
