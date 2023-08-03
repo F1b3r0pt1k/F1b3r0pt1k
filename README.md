@@ -8,7 +8,7 @@
 - 📫 How to reach me: eric@ericgray.tech
 
 ## Toolset
-![image]({https://img.shields.io/badge/microsoft%20azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white}) ![image]({BadgeURLHere}) ![image]({BadgeURLHere}) ![image]({BadgeURLHere}) ![image]({BadgeURLHere}) ![image]({BadgeURLHere}) ![image]({BadgeURLHere})
+<img src="{https://img.shields.io/badge/microsoft%20azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white}" /><img src="{BadgeURLHere}" /><img src="{BadgeURLHere}" /><img src="{BadgeURLHere}" /><img src="{BadgeURLHere}" /><img src="{BadgeURLHere}" /><img src="{BadgeURLHere}" />
 
 
 
