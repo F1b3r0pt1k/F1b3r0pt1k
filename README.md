@@ -3,7 +3,7 @@
 [![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/F1b3r0pt1k) [![linkedin](https://img.shields.io/badge/Linkedin-0e76a8?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/eric-gray-azure/) [![Outlook](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:eric@ericgray.tech) [![gmail](https://img.shields.io/badge/Gmail-ff0000?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:eric@ericgray.tech)  [![portfolio](https://img.shields.io/badge/Portfolio-4d1a7f?style=for-the-badge&logo=Portfolio&logoColor=white)](https://faithpueneh.vercel.app/) 
 
 - 🔭 I’m currently working on: Policy-as-Code and Azure Landing Zones in Terraform.
-- 🌱 I’m currently learning: Kubernetes :flushed: and Azure DevOps :sunglasses:
+- 🌱 I’m currently learning: Kubernetes :sunglasses:
 - 💬 Ask me about: Microsoft Azure, Terraform, Bicep, IaC
 - 📫 How to reach me: eric@ericgray.tech
 - ⚡ Fun fact: I like guitars and Star Trek.
