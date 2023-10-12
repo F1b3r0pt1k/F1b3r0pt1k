@@ -1,4 +1,7 @@
 ### Hi there <img src="https://media.tenor.com/SNL9_xhZl9oAAAAi/waving-hand-joypixels.gif" width="30px">, my name is Eric Gray.
+
+### Update 10/12/23: Repos may be temporarily unavailable. I'm revamping my portfolio organiztion and adding new projects.
+
 #### I am an Azure Infrastructure Engineer who likes to deploy all the things as code. Below you'll find demo projects for Azure using Terraform, Bicep, and Azure DevOps.   
 [![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/F1b3r0pt1k) [![linkedin](https://img.shields.io/badge/Linkedin-0e76a8?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/eric-gray-azure/) [![Outlook](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:eric@ericgray.tech) [![gmail](https://img.shields.io/badge/Gmail-ff0000?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:eric@ericgray.tech) 
 
